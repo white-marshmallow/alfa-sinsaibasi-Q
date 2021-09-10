@@ -175,7 +175,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #3cb371;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #1e90ff;
 }
 
 .bg-color--subcolor {
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #3cb371;
   margin: 0 -20px 20px -20px;
 }
 
